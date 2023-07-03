@@ -184,6 +184,21 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 | ------------------ | --------------------- | 
 | <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>| <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div> |
 
+<div class="row">
+<div class="column">
+**Polymer DFM Basics**  
+
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>
+
+</div>
+<div class="column">
+**Polymer DFM Fasteners**  
+
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>
+
+</div>
+</div>
+
 ### Metals
 
 > Metals
