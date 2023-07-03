@@ -180,7 +180,7 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 > Knowledgebase ETID
 > [Deltaform Printer](https://lobfile.com/file/0cJ0.zip) printer documents from manufacturer, iSolids.
 
-Option #1, using Docsify-This Two Column CSS
+# Option #1, using Docsify-This Two Column CSS
 
 <div class="row">
 <div class="column">
@@ -199,7 +199,7 @@ Option #1, using Docsify-This Two Column CSS
 </div>
 </div>
 
-Option #2, using HTML Table
+# Option #2, using HTML Table
 
 <table>
     <tr>
