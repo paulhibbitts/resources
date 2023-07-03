@@ -180,20 +180,7 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 > Knowledgebase ETID
 > [Deltaform Printer](https://lobfile.com/file/0cJ0.zip) printer documents from manufacturer, iSolids.
 
-| Polymer DFM Basics | Polymer DFM Fasteners |
-| ------------------ | --------------------- | 
-| <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div> | <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>|
-
-<table>
-    <tr>
-        <td>Polymer DFM Basics</td>
-        <td>Polymer DFM Fasteners</td>
-    </tr>
-    <tr>
-        <td><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></td>
-        <td><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>|</td>
-    </tr>
-</table>
+Option #1, using Docsify-This Two Column CSS
 
 <div class="row">
 <div class="column">
@@ -211,6 +198,19 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 
 </div>
 </div>
+
+Option #2, using HTML Table
+
+<table>
+    <tr>
+        <td>Polymer DFM Basics</td>
+        <td>Polymer DFM Fasteners</td>
+    </tr>
+    <tr>
+        <td><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></td>
+        <td><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>|</td>
+    </tr>
+</table>
 
 ### Metals
 
